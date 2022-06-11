@@ -1,0 +1,6 @@
+name = "Sunset Invasion"
+archive = "dlc/dlc018.zip"
+steam_id = "210902"
+gamersgate_id = "620"
+checksum = "435f39531f8a4730b92f98cadabaa9e1"
+affects_checksum = no

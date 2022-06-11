@@ -1,0 +1,6 @@
+name = "Hymns of Abraham"
+archive = "dlc/dlc035.zip"
+steam_id = "226670"
+gamersgate_id = "637"
+checksum = "3904a776215b8a35abb781b15c1e1092"
+affects_checksum = no

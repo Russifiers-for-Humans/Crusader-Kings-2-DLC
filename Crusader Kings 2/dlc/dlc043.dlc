@@ -1,0 +1,5 @@
+name = "Persian Unit Pack"
+archive = "dlc/dlc043.zip"
+steam_id = "292980"
+checksum = "e1be596d70b82c80ebbeec35c6ece6ef"
+affects_checksum = no

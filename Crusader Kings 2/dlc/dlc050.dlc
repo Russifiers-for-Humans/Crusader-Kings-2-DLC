@@ -1,0 +1,6 @@
+name = "Way of Life"
+archive = "dlc/dlc050.zip"
+steam_id = "329010"
+gamersgate_id = "329010"
+checksum = "4fbc291e28b2d1dd9158fa0ae32cac6c"
+affects_checksum = no

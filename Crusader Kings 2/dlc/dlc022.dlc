@@ -1,0 +1,6 @@
+name = "The Republic"
+archive = "dlc/dlc022.zip"
+steam_id = "210906"
+gamersgate_id = "624"
+checksum = "5e2447801bda9e7ccd36c6f47faa7490"
+affects_checksum = no

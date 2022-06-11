@@ -1,0 +1,6 @@
+name = "Norse Portraits"
+archive = "dlc/dlc020.zip"
+steam_id = "210904"
+gamersgate_id = "622"
+checksum = "9fdd925ef097668457b581be243ebccc"
+affects_checksum = no

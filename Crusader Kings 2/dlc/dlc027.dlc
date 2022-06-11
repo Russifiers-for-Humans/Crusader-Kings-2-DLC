@@ -1,0 +1,6 @@
+name = "Celtic Unit Pack"
+archive = "dlc/dlc027.zip"
+steam_id = "226662"
+gamersgate_id = "629"
+checksum = "2178e4e53b285ea18b9360f90375b28c"
+affects_checksum = no

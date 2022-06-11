@@ -1,0 +1,6 @@
+name = "The Old Gods"
+archive = "dlc/dlc024.zip"
+steam_id = "210908"
+gamersgate_id = "626"
+checksum = "1497c26168eeff81341887c402972cb8"
+affects_checksum = no

@@ -1,0 +1,6 @@
+name = "Viking Metal"
+archive = "dlc/dlc064.zip"
+steam_id = "401660"
+gamersgate_id = "1"
+checksum = "b13a8cd234a1057d2966e255145141f7"
+affects_checksum = no

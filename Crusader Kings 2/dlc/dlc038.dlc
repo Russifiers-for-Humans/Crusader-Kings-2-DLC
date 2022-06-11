@@ -1,0 +1,5 @@
+name = "Finno-Ugric Unit Pack"
+archive = "dlc/dlc038.zip"
+steam_id = "226673"
+checksum = "8df4b96fc667422e0da67902c9c75089"
+affects_checksum = no

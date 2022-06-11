@@ -1,0 +1,6 @@
+name = "Monks And Mystics"
+archive = "dlc/dlc069.zip"
+steam_id = "530780"
+gamersgate_id = "530780"
+checksum = "242edb0816975f52b35031467f9fe25e"
+affects_checksum = no

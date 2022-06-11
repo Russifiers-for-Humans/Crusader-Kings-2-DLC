@@ -1,0 +1,6 @@
+name = "African Unit Pack"
+archive = "dlc/dlc008.zip"
+steam_id = "210892"
+gamersgate_id = "601"
+checksum = "041b9c1e4dcb41963ea558e320a30430"
+affects_checksum = no

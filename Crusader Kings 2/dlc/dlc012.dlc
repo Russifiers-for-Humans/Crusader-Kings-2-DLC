@@ -1,0 +1,6 @@
+name = "Byzantine Unit Pack"
+archive = "dlc/dlc012.zip"
+steam_id = "210896"
+gamersgate_id = "614"
+checksum = "c8b5a8abb6fc425ce2479d0295e6dadb"
+affects_checksum = no

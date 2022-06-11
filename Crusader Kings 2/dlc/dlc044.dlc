@@ -1,0 +1,5 @@
+name = "Persian Portraits"
+archive = "dlc/dlc044.zip"
+steam_id = "292981"
+checksum = "155038b64052fc91dcc0001f13fa8bd1"
+affects_checksum = no

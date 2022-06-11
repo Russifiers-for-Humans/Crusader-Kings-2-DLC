@@ -1,0 +1,6 @@
+name = "The Reaper's Due"
+archive = "dlc/dlc066.zip"
+steam_id = "449980"
+gamersgate_id = "449980"
+checksum = "3a8f6c631ac3c46b0d2482e0b211c344"
+affects_checksum = no

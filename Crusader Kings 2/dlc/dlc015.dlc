@@ -1,0 +1,6 @@
+name = "Russian Unit Pack"
+archive = "dlc/dlc015.zip"
+steam_id = "210899"
+gamersgate_id = "617"
+checksum = "7f2c26849c6af5f076971adcf0389516"
+affects_checksum = no

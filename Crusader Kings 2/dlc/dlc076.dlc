@@ -1,0 +1,5 @@
+name = "Pagan Fury Music Pack"
+archive = "dlc/dlc076.zip"
+steam_id = "949870"
+checksum = "69c4b3d062541266d39c9781bac33557"
+affects_checksum = no

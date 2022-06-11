@@ -1,0 +1,7 @@
+name = "Military Orders Unit Pack"
+archive = "dlc/dlc033.zip"
+steam_id = "226668"
+gamersgate_id = "635"
+checksum = "6e3daa0ab1be02fbaf3974dbf7cc6166"
+affects_checksum = no
+

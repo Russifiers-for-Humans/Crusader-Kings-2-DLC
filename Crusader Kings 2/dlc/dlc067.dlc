@@ -1,0 +1,6 @@
+name = "The Reaper's Due Content Pack"
+archive = "dlc/dlc067.zip"
+steam_id = "449981"
+gamersgate_id = "1"
+checksum = "74c53e55b8d5a22355c101f36398ab5a"
+affects_checksum = no

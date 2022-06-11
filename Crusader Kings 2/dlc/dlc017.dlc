@@ -1,0 +1,6 @@
+name = "Songs of Byzantium"
+archive = "dlc/dlc017.zip"
+steam_id = "210901"
+gamersgate_id = "619"
+checksum = "c19903bf69f3502d3b8fa14ce61857b3"
+affects_checksum = no

@@ -1,0 +1,1167 @@
+# Do not change tags in here without changing every other reference to them.
+# Do not change tags in here without changing every other reference to them.
+# If adding new groups or ideas, make sure they are unique.
+
+
+
+### Nation specific idea groups
+
+ENG_ideas = {
+	trigger = {
+		num_of_ports = 5
+		num_of_cities = 10
+		OR = {
+			government_rank = 2
+			government_rank = 3
+		}
+		is_subject = no
+		OR = {
+			primary_culture = anglo_saxon
+			primary_culture = english
+		}
+	}
+}
+
+SWE_ideas = {
+	trigger = {
+		num_of_cities = 15
+		OR = {
+			government_rank = 2
+			government_rank = 3
+		}
+		is_subject = no
+		primary_culture = swedish
+	}
+}
+
+RUS_ideas = {
+	trigger = {
+		num_of_cities = 15
+		OR = {
+			government_rank = 2
+			government_rank = 3
+		}
+		is_subject  = no
+		primary_culture = russian_culture
+	}
+}
+
+SPA_ideas = {
+	trigger = {
+		num_of_ports = 5
+		num_of_cities = 10
+		OR = {
+			government_rank = 2
+			government_rank = 3
+		}
+		is_subject = no
+		primary_culture = castillian
+	}
+}
+
+NED_ideas = {
+	trigger = {
+		num_of_ports = 5
+		num_of_cities = 10
+		OR = {
+			government_rank = 2
+			government_rank = 3
+		}
+		is_subject = no
+		primary_culture = dutch
+	}
+}
+
+DAN_ideas = {
+	trigger = {
+		num_of_ports = 5
+		num_of_cities = 10
+		OR = {
+			government_rank = 2
+			government_rank = 3
+		}
+		primary_culture = danish
+	}
+}
+
+FRA_ideas = {
+	trigger = {
+		num_of_ports = 5
+		num_of_cities = 15
+		is_subject = no
+		OR = {
+			government_rank = 2
+			government_rank = 3
+		}
+		OR = {
+			primary_culture = cosmopolitan_french
+			primary_culture = normand
+			primary_culture = occitain
+		}
+		NOT = {
+			tag = KOJ
+		}
+	}
+}
+
+PRU_ideas = {
+	trigger = {
+		culture_group = germanic
+		is_subject = no
+		MIL = 5
+		NOT = {
+			num_of_cities = 10
+		}
+	}
+}
+ 
+POR_ideas = {
+	trigger = {
+		num_of_ports = 5
+		num_of_cities = 10
+		is_subject = no
+		OR = {
+			government_rank = 2
+			government_rank = 3
+		}
+		primary_culture = portugese
+	}
+}
+
+POL_ideas = {
+	trigger = {
+		num_of_cities = 15
+		is_subject = no
+		OR = {
+			government_rank = 2
+			government_rank = 3
+		}
+		primary_culture = polish
+	}
+}
+
+HAB_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+BAV_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+PER_ideas = {
+	trigger = {
+		num_of_cities = 15
+		is_subject = no
+		OR = {
+			government_rank = 2
+			government_rank = 3
+		}
+		primary_culture = persian
+	}
+}
+
+BUR_Ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+GEN_ideas = {
+	trigger = {
+		num_of_ports = 1
+		NOT = {
+			num_of_ports = 5
+		}
+		tag = GEN
+	}
+}
+
+SCO_Ideas = {
+	trigger = {
+		num_of_ports = 5
+		num_of_cities = 10
+		is_subject = no
+		OR = {
+			government_rank = 2
+			government_rank = 3
+		}
+		primary_culture = scottish
+	}
+}
+
+HUN_ideas = {
+	trigger = {
+		num_of_cities = 15
+		is_subject = no
+		OR = {
+			government_rank = 2
+			government_rank = 3
+		}
+		primary_culture = hungarian
+	}
+}
+
+
+ARA_ideas = {
+	trigger = {
+		num_of_ports = 5
+		num_of_cities = 10
+		is_subject = no
+		tag = ARA
+		OR = {
+			government_rank = 2
+			government_rank = 3
+		}
+		primary_culture = catalan
+	}
+}
+
+TIM_ideas = {
+	trigger = {
+		OR = {
+			tag = TIM
+			tag = MUG
+		}
+	}
+}
+
+HSA_ideas = {
+	trigger = {
+		num_of_ports = 1
+		NOT = {
+			num_of_ports = 5
+		}
+		tag = HSA
+	}
+}
+
+MLO_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+BYZ_ideas = {
+	trigger = {
+		culture_group = byzantine
+		is_subject = no
+		OR = {
+			government_rank = 2
+			government_rank = 3
+		}
+		tag = BYZ
+	}
+}
+
+VIJ_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+NOR_ideas = {
+	trigger = {
+		num_of_ports = 5
+		num_of_cities = 10
+		is_subject = no
+		OR = {
+			government_rank = 2
+			government_rank = 3
+		}
+		primary_culture = norwegian
+	}
+}
+
+OMA_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+BOH_ideas = {
+	trigger = {
+		num_of_cities = 15
+		is_subject = no
+		OR = {
+			government_rank = 2
+			government_rank = 3
+		}
+		primary_culture = czech
+	}
+}
+
+ITA_ideas = {
+	trigger = {
+		num_of_ports = 5
+		num_of_cities = 10
+		is_subject = no
+		OR = {
+			government_rank = 2
+			government_rank = 3
+		}
+		primary_culture = italian
+	}
+}
+
+PAL_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+NOV_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+ETH_ideas = {
+	trigger = {
+		num_of_ports = 5
+		num_of_cities = 10
+		is_subject = no
+		OR = {
+			government_rank = 2
+			government_rank = 3
+		}
+		primary_culture = amhara
+	}
+}
+
+SAV_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+SAX_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+LIT_ideas = {
+	trigger = {
+		num_of_cities = 15
+		is_subject = no
+		OR = {
+			government_rank = 2
+			government_rank = 3
+		}
+		primary_culture = lithuanian
+	}
+}
+
+MAM_ideas = {	
+	trigger = {
+		OR = {
+			tag = MAM
+			dynasty = "Мамлюк"
+		}
+		religion_group = muslim
+	}
+}
+
+NAP_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+TUR_ideas = {
+	trigger = {
+		OR = {
+			tag = TUR
+			dynasty = "Ocман"
+		}
+		religion_group = muslim
+	}
+}
+
+
+VEN_ideas = {
+	trigger = {
+		num_of_ports = 1
+		NOT = {
+			num_of_ports = 5
+		}
+		tag = VEN
+	}
+}
+
+
+GRA_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+
+SER_ideas = {
+	trigger = {
+		num_of_cities = 15
+		is_subject = no
+		OR = {
+			government_rank = 2
+			government_rank = 3
+		}
+		primary_culture = serbian
+	}
+}
+
+
+ORI_ideas = {
+	trigger = {
+		num_of_cities = 15
+		is_subject = no
+		OR = {
+			government_rank = 2
+			government_rank = 3
+		}
+		primary_culture = oriya
+	}
+}
+
+
+PUN_ideas = {
+	trigger = {
+		num_of_cities = 15
+		is_subject = no
+		OR = {
+			government_rank = 2
+			government_rank = 3
+		}
+		primary_culture = panjabi
+	}
+}
+
+
+RAG_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+
+ASS_ideas = {
+	trigger = {
+		num_of_cities = 15
+		is_subject = no
+		OR = {
+			government_rank = 2
+			government_rank = 3
+		}
+		primary_culture = panjabi
+	}
+}
+
+
+TUS_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+
+SWI_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+
+SON_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+
+BRI_ideas = {
+	trigger = {
+		NOT = {
+			num_of_cities = 10
+		}
+		primary_culture = breton
+	}
+}
+
+
+NAJ_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+
+HED_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+
+MAL_ideas = {
+	trigger = {
+		num_of_cities = 15
+		is_subject = no
+		OR = {
+			government_rank = 2
+			government_rank = 3
+		}
+		primary_culture = mali
+	}
+}
+
+
+KUR_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+
+PRO_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+
+GEO_ideas = {
+	trigger = {
+		num_of_cities = 15
+		is_subject = no
+		OR = {
+			government_rank = 2
+			government_rank = 3
+		}
+		primary_culture = georgian
+	}
+}
+
+
+AFG_ideas = {
+	trigger = {
+		num_of_cities = 15
+		is_subject = no
+		OR = {
+			government_rank = 2
+			government_rank = 3
+		}
+		primary_culture = afghani
+	}
+}
+
+
+WAL_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+
+CRO_ideas = {
+	trigger = {
+		num_of_cities = 15
+		is_subject = no
+		OR = {
+			government_rank = 2
+			government_rank = 3
+		}
+		primary_culture = croatian
+	}
+}
+
+
+CYP_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+
+NAV_ideas = {
+	trigger = {
+		num_of_ports = 5
+		is_subject = no
+		OR = {
+			government_rank = 2
+			government_rank = 3
+		}
+		primary_culture = basque
+	}
+}
+
+
+SIL_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+
+DNZ_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+
+KRA_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+
+RYA_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+TVE_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+YAR_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+PSK_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+
+SMO_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+
+BOS_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+
+MOL_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+
+ATH_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+
+GOT_ideas = {
+	trigger = {
+		num_of_ports = 1
+		NOT = {
+			num_of_ports = 5
+		}
+		tag = GOT
+	}
+}
+
+
+FIN_ideas = {
+	trigger = {
+		num_of_cities = 15
+		is_subject = no
+		OR = {
+			government_rank = 2
+			government_rank = 3
+		}
+		primary_culture = finnish
+	}
+}
+
+
+ALB_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+
+PLT_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+
+PRM_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+
+BUL_ideas = {
+	trigger = {
+		num_of_cities = 15
+		is_subject = no
+		OR = {
+			government_rank = 2
+			government_rank = 3
+		}
+		primary_culture = bulgarian
+	}
+}
+
+KIE_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+NAX_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+POM_ideas = {
+	trigger = {
+		num_of_cities = 15
+		is_subject = no
+		OR = {
+			government_rank = 2
+			government_rank = 3
+		}
+		primary_culture = pommeranian
+	}
+}
+
+ARM_ideas = {
+	trigger = {
+		num_of_cities = 15
+		is_subject = no
+		OR = {
+			government_rank = 2
+			government_rank = 3
+		}
+		primary_culture = armenian
+	}
+}
+
+
+WLS_ideas = {
+	trigger = {
+		num_of_cities = 15
+		is_subject = no
+		OR = {
+			government_rank = 2
+			government_rank = 3
+		}
+		primary_culture = welsh
+	}
+}
+
+KHI_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+JNP_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+HAM_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+TRA_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+WBG_ideas = {
+	trigger = {
+		always = no
+	}
+}
+ 
+CEY_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+BRE_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+SHL_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+HES_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+NOL_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+MUN_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+THU_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+BTI_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+
+CAT_ideas = {
+    trigger = {
+		num_of_ports = 5
+		num_of_cities = 10
+		is_subject = no
+		NOT = { tag = ARA }
+		OR = {
+			government_rank = 2
+			government_rank = 3
+		}
+		primary_culture = catalan
+	}
+}
+
+BAD_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+ORL_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+ORM_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+KAS_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+LUX_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+YOR_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+LON_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+NZH_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+SMI_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+MAZ_ideas = {
+	trigger = {
+		always = no
+    }
+}
+
+GAL_ideas = {
+    trigger = {
+		always = no
+    }
+}
+
+NEV_ideas = {
+    trigger = {
+        always = no
+	}
+}
+
+
+MNS_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+DMS_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+MLW_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+CEP_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+LOR_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+WUR_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+SLO_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+BLO_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+RSO_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+NPL_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+KGR_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+GHR_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+BAL_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+CND_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+EST_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+FEO_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+HAN_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+KAR_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+KAZ_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+MAM_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+OKA_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+TRE_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+ZAZ_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+HSA_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+KBO_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+AIR_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+ALH_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+FRS_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+GLH_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+HDR_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+KHO_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+KNI_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+LDK_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+LRI_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+MHR_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+MOS_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+MVA_ideas = {
+	trigger = {
+		always = no
+	}
+}

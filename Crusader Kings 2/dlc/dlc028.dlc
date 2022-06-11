@@ -1,0 +1,6 @@
+name = "Celtic Portraits"
+archive = "dlc/dlc028.zip"
+steam_id = "226663"
+gamersgate_id = "630"
+checksum = "c26f8e4bb7323201b3dfd406847c30f0"
+affects_checksum = no

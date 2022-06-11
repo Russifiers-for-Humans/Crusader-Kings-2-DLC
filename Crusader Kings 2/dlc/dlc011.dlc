@@ -1,0 +1,6 @@
+name = "Legacy of Rome"
+archive = "dlc/dlc011.zip"
+steam_id = "210895"
+gamersgate_id = "612"
+checksum = "3b7447c2a9f12dcca5e1bc43609d901e"
+affects_checksum = no

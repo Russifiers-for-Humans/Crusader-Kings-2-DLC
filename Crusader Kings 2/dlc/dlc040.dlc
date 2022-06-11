@@ -1,0 +1,6 @@
+name = "Turkish Unit Pack"
+archive = "dlc/dlc040.zip"
+steam_id = "279601"
+gamersgate_id = "2"
+checksum = "bb07b758b1478a849780a3c81040ae6b"
+affects_checksum = no

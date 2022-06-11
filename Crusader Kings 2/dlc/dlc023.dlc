@@ -1,0 +1,6 @@
+name = "Songs of Prosperity"
+archive = "dlc/dlc023.zip"
+steam_id = "210907"
+gamersgate_id = "625"
+checksum = "7a2ceee70b6954cca93a97f18fed86d6"
+affects_checksum = no

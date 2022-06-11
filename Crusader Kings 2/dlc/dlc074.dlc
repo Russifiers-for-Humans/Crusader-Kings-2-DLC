@@ -1,0 +1,6 @@
+name = "Holy Fury"
+archive = "dlc/dlc074.zip"
+steam_id = "756660"
+gamersgate_id = "756660"
+checksum = "cb3268f848dc86e5378dbb62fd3869d7"
+affects_checksum = no

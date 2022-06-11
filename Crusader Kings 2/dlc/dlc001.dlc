@@ -1,0 +1,6 @@
+name = "Dynasty Coat of Arms Pack 1"
+archive = "dlc/dlc001.zip"
+steam_id = "203772"
+gamersgate_id = "521"
+checksum = "2d53def4422be4023df7a91f62fd095c"
+affects_checksum = no

@@ -1,0 +1,6 @@
+name = "Norse Unit Pack"
+archive = "dlc/dlc021.zip"
+steam_id = "210905"
+gamersgate_id = "623"
+checksum = "f665fef3985d25889e26c0ab972ff558"
+affects_checksum = no

@@ -1,0 +1,6 @@
+name = "Songs of the Rus"
+archive = "dlc/dlc019.zip"
+steam_id = "210903"
+gamersgate_id = "621"
+checksum = "2083ad74f2892f03d8193eebb1916735"
+affects_checksum = no

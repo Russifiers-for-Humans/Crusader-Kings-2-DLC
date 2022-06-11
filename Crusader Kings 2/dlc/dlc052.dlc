@@ -1,0 +1,6 @@
+name = "Iberian Portraits"
+archive = "dlc/dlc052.zip"
+steam_id = "329012"
+gamersgate_id = "329012"
+checksum = "f11c82dd3cdd24039a22746ee7e1aaf1"
+affects_checksum = no

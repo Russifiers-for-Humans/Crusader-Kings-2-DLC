@@ -1,0 +1,6 @@
+name = "Horse Lords"
+archive = "dlc/dlc054.zip"
+steam_id = "354330"
+gamersgate_id = "354330"
+checksum = "3e4c3143b18be813214c5b068cb35f90"
+affects_checksum = no

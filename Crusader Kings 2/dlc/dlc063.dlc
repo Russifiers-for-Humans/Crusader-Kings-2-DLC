@@ -1,0 +1,6 @@
+name = "Conclave Content Pack"
+archive = "dlc/dlc063.zip"
+steam_id = "394321"
+gamersgate_id = "1"
+checksum = "930bd1b79d577c19a0c7d1775e03d25f"
+affects_checksum = no

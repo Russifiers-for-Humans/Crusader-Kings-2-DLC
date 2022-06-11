@@ -1,0 +1,6 @@
+name = "South Indian Portraits"
+archive = "dlc/dlc065.zip"
+steam_id = "428720"
+gamersgate_id = "1"
+checksum = "ea0ac6d44f51edd83f69152726b146b1"
+affects_checksum = no

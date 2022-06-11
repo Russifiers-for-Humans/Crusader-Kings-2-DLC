@@ -1,0 +1,6 @@
+name = "Turkish Portraits"
+archive = "dlc/dlc041.zip"
+steam_id = "279602"
+gamersgate_id = "3"
+checksum = "d1c17aeaa3b963a2fbc5cfd9685c56eb"
+affects_checksum = no

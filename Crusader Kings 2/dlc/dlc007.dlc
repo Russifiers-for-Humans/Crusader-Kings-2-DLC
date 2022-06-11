@@ -1,0 +1,6 @@
+name = "The Sword of Islam"
+archive = "dlc/dlc007.zip"
+steam_id = "203778"
+gamersgate_id = "591"
+checksum = "9e2e230a829d9f18897d7d8711b8f992"
+affects_checksum = no

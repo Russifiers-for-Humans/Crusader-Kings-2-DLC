@@ -1,0 +1,6 @@
+name = "Hymns of Revelation"
+archive = "dlc/dlc071.zip"
+steam_id = "601270"
+gamersgate_id = "1"
+checksum = "46cb88acd85c8d86b6dc7a9dd371053c"
+affects_checksum = no

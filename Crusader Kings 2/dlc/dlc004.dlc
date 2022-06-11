@@ -1,0 +1,6 @@
+name = "Songs of Faith"
+archive = "dlc/dlc004.zip"
+steam_id = "203775"
+gamersgate_id = "561"
+checksum = "9cb8c8439dce199fd252f63f46af30a2"
+affects_checksum = no

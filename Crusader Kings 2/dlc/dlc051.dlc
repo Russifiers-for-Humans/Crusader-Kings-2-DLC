@@ -1,0 +1,6 @@
+name = "Iberian Unit Pack"
+archive = "dlc/dlc051.zip"
+steam_id = "329011"
+gamersgate_id = "329011"
+checksum = "a596060148acea827dbad559b198cc47"
+affects_checksum = no

@@ -1,0 +1,6 @@
+name = "Mediterranean Portraits"
+archive = "dlc/dlc014.zip"
+steam_id = "210898"
+gamersgate_id = "616"
+checksum = "f030d12067954eee58b9aa41d7d415c8"
+affects_checksum = no

@@ -1,0 +1,6 @@
+name = "Jade Dragon"
+archive = "dlc/dlc073.zip"
+steam_id = "640140"
+gamersgate_id = "640140"
+checksum = "c91c8c99d9ec397bf11cdae69055ad69"
+affects_checksum = no

@@ -1,0 +1,6 @@
+name = "Mongol Unit Pack"
+archive = "dlc/dlc055.zip"
+steam_id = "354331"
+gamersgate_id = "1"
+checksum = "9471b54de6b7bf1d4e61858113a9d00c"
+affects_checksum = no

@@ -1,0 +1,51 @@
+lost_cultures_group = {
+	equine = {
+		primary = TRL
+
+		male_names = {
+			Пятнышко Звезда Спирит Плямя Счастливчик Чиф Рэйн Cтopми Дюк Бегунок "Умный Ганс" Скиталец Миднайт Твайлайт Арион Каpлоc Триумф
+		}
+		female_names = {
+			Звёздочка Миcти Спирит Лаки Хани Леди Рейн Cтopми Анни Уиллоу Дримeр Миднайт Твайлайт Баттермилк Силуэт "Леди Вондер" Радуга Эпона Дэнис Харизма
+		}
+		dynasty_names = {
+			Глиттергоф Искорка Мунтейл "Опаловый Глаз" Серебринка Златолик 
+		}
+	}
+	cat = {
+		primary = TRL
+		dynasty_names = $feline$
+	}
+	bear = {
+		primary = TRL
+		dynasty_names = $ursine$
+	}
+	feline = {
+		primary = TRL
+		dynasty_names = $feline$
+	}
+	ursine = {
+		primary = TRL
+		dynasty_names = $ursine$
+	}
+	hedgehog_culture = {
+		primary = TRL
+		dynasty_names = $hedgehog_culture$
+	}
+	duck_culture = {
+		primary = TRL
+		dynasty_names = $duck_culture$
+	}
+	dog_culture = {
+		primary = TRL
+		dynasty_names = $dog_culture$
+	}
+	elephant_culture = {
+		primary = TRL
+		dynasty_names = $elephant_culture$
+	}
+	dragon_culture = {
+		primary = TRL
+		dynasty_names = $dragon_culture$
+	}
+}

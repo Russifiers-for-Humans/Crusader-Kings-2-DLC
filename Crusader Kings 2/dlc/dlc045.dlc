@@ -1,0 +1,6 @@
+name = "Charlemagne"
+archive = "dlc/dlc045.zip"
+steam_id = "292982"
+gamersgate_id = "292982"
+checksum = "6fca98574259cc5e3c9e18f5601621fe"
+affects_checksum = no

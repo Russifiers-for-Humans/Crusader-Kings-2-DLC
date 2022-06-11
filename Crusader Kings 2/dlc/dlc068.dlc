@@ -1,0 +1,6 @@
+name = "Full Plate Metal Music Pack"
+archive = "dlc/dlc068.zip"
+steam_id = "472070"
+gamersgate_id = "1"
+checksum = "97c13abe81a9aad0a0a06f075709d0cd"
+affects_checksum = no

@@ -1,0 +1,5 @@
+name = "Saxon Unit Pack"
+archive = "dlc/dlc037.zip"
+steam_id = "226672"
+checksum = "ddc6d10cec91adbc2b46b34afc0c17ca"
+affects_checksum = no

@@ -1,0 +1,6 @@
+name = "Sons of Abraham"
+archive = "dlc/dlc032.zip"
+steam_id = "226667"
+gamersgate_id = "634"
+checksum = "ef5ed03eee650af6f4b9147106b329b6"
+affects_checksum = no

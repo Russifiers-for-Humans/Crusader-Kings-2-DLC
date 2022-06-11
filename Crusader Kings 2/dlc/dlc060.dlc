@@ -1,0 +1,6 @@
+name = "Italian Unit Pack"
+archive = "dlc/dlc060.zip"
+steam_id = "354331"
+gamersgate_id = "1"
+checksum = "ca2e06c03d6c06c24b708de31de80e3a"
+affects_checksum = no

@@ -1,0 +1,6 @@
+name = "Customization Pack"
+archive = "dlc/dlc031.zip"
+steam_id = "226666"
+gamersgate_id = "633"
+checksum = "7e8f2e84bf64ccdcb512d749178351a9"
+affects_checksum = no

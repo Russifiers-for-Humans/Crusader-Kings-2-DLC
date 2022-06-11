@@ -1,0 +1,6 @@
+name = "Songs of the Holy Land"
+archive = "dlc/dlc006.zip"
+steam_id = "203777"
+gamersgate_id = "581"
+checksum = "c10a344e3319b3e5b709fece561a58c6"
+affects_checksum = no

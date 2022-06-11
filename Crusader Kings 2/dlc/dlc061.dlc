@@ -1,0 +1,6 @@
+name = "Orchestral House Lords"
+archive = "dlc/dlc061.zip"
+steam_id = "373940"
+gamersgate_id = "1"
+checksum = "9109acb3304de8e50c350751977e93f6"
+affects_checksum = no

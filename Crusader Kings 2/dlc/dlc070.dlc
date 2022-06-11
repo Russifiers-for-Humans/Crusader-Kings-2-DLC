@@ -1,0 +1,6 @@
+name = "Monks and Mystics Content Pack"
+archive = "dlc/dlc070.zip"
+steam_id = "530780"
+gamersgate_id = "1"
+checksum = "0619105a23be4030ff52b896ea093281"
+affects_checksum = no
